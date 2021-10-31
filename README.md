@@ -113,3 +113,34 @@ Happy coding!
 IMAGES
 
 NES image main screen - Photo by Tomasz Filipek from Pexels - https://www.pexels.com/photo/gray-nintendo-nes-console-and-controllers-1637439/ 
+
+NES product - Image by <a href="https://pixabay.com/users/robinle-2695228/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2649705">RobinLe</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2649705">Pixabay</a>
+
+controllers image - Photo by <a href="https://unsplash.com/@kike_borland?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Enrique Guzmán Egas</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+SNES controller - Photo by <a href="https://unsplash.com/@pf91_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Gameboy - Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hello I'm Nik</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+NES controller - Photo by <a href="https://unsplash.com/@ravipalwe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ravi Palwe</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+N64 - Photo by <a href="https://unsplash.com/@patsn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pat Moin</a> on <a href="https://unsplash.com/s/photos/n64?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Gamegear - Photo by <a href="https://unsplash.com/@benofthenorth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Griffiths</a> on <a href="https://unsplash.com/s/photos/sega?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Master System II - Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hello I'm Nik</a> on <a href="https://unsplash.com/s/photos/sega?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Megadrive - Photo by <a href="https://unsplash.com/@docs1231?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joshua Doherty</a> on <a href="https://unsplash.com/s/photos/sega?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Dreamcast - Photo by <a href="https://unsplash.com/@usualmorals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Taylor R</a> on <a href="https://unsplash.com/s/photos/sega?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+PS1 - Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hello I'm Nik</a> on <a href="https://unsplash.com/s/photos/playstation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+PS controller - Photo by <a href="https://unsplash.com/@loravisuals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">lilzidesigns</a> on <a href="https://unsplash.com/s/photos/playstation-2?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+PS2 - Photo by <a href="https://unsplash.com/@chilinik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nikita Kostrykin</a> on <a href="https://unsplash.com/s/photos/playstation-2?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+XBOX controller - Photo by <a href="https://unsplash.com/@christaljaard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Taljaard</a> on <a href="https://unsplash.com/s/photos/xbox?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+SNES - Photo by <a href="https://unsplash.com/@korie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Korie Cull</a> on <a href="https://unsplash.com/s/photos/snes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
