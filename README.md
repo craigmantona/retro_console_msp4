@@ -106,3 +106,10 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+
+
+
+IMAGES
+
+NES image main screen - Photo by Tomasz Filipek from Pexels - https://www.pexels.com/photo/gray-nintendo-nes-console-and-controllers-1637439/ 
