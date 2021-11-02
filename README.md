@@ -143,4 +143,8 @@ PS2 - Photo by <a href="https://unsplash.com/@chilinik?utm_source=unsplash&utm_m
 XBOX controller - Photo by <a href="https://unsplash.com/@christaljaard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Taljaard</a> on <a href="https://unsplash.com/s/photos/xbox?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 SNES - Photo by <a href="https://unsplash.com/@korie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Korie Cull</a> on <a href="https://unsplash.com/s/photos/snes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+SNES controller main page - Photo by <a href="https://unsplash.com/@derekstory?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Derek Story</a> on <a href="https://unsplash.com/s/photos/retro-gaming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
   
