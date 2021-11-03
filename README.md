@@ -145,6 +145,27 @@ XBOX controller - Photo by <a href="https://unsplash.com/@christaljaard?utm_sour
 SNES - Photo by <a href="https://unsplash.com/@korie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Korie Cull</a> on <a href="https://unsplash.com/s/photos/snes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 SNES controller main page - Photo by <a href="https://unsplash.com/@derekstory?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Derek Story</a> on <a href="https://unsplash.com/s/photos/retro-gaming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Gamecube - Photo by <a href="https://unsplash.com/@north_of_rapture?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Paweł Durczok</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
   
 
+
+Product descriptions
+
+SNES - from Wikipedia - https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System
+NES - from Wikipedia - https://en.wikipedia.org/wiki/Nintendo_Entertainment_System
+N64 - from Wikipedia - https://en.wikipedia.org/wiki/Nintendo_64
+Mastersystem - from Wikipedia - https://en.wikipedia.org/wiki/Master_System
+Megadrive - from Wikipedia - https://en.wikipedia.org/wiki/Sega_Genesis
+Dreamcast - from Wikipedia - https://en.wikipedia.org/wiki/Dreamcast
+Playstation 1 - from Wikipedia - https://en.wikipedia.org/wiki/PlayStation_(console)
+Playstation 2 - from Wikipedia - https://en.wikipedia.org/wiki/PlayStation_2
+Gameboy - from Wikipedia - https://en.wikipedia.org/wiki/Game_Boy
+Gamegear - from Wikipedia - https://en.wikipedia.org/wiki/Game_Gear
+Gamecube - from wikipedia - https://en.wikipedia.org/wiki/GameCube
+SNES controller - from wikipedia - https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System#Peripherals
+NES controller - from wikipedia - https://en.wikipedia.org/wiki/Nintendo_Entertainment_System#Controllers
+Playstation controller - from wikipedia - https://en.wikipedia.org/wiki/PlayStation_controller
+X-Box controller - from wikipedia - https://en.wikipedia.org/wiki/Xbox_controller
   

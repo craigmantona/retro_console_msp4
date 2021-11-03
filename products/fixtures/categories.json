@@ -1,0 +1,58 @@
+[
+	{
+		"pk": 1,
+		"model": "products.envcategory",
+		"fields": {
+			"name": "console",
+			"friendly_name": "Console"
+		}
+	},
+	{
+		"pk": 2,
+		"model": "products.envcategory",
+		"fields": {
+			"name": "controller",
+			"friendly_name": "Controller"
+		}
+	},
+	{
+		"pk": 3,
+		"model": "products.envcategory",
+		"fields": {
+			"name": "handheld",
+			"friendly_name": "Handheld"
+		}
+	},
+	{
+		"pk": 4,
+		"model": "products.envcategory",
+		"fields": {
+			"name": "nintendo",
+			"friendly_name": "Nintendo"
+		}
+	},
+    {
+		"pk": 5,
+		"model": "products.envcategory",
+		"fields": {
+			"name": "sega",
+			"friendly_name": "Sega"
+		}
+	},
+    {
+		"pk": 6,
+		"model": "products.envcategory",
+		"fields": {
+			"name": "sony",
+			"friendly_name": "Sony"
+		}
+	},
+    {
+		"pk": 7,
+		"model": "products.envcategory",
+		"fields": {
+			"name": "microsoft",
+			"friendly_name": "Microsoft"
+		}
+	},
+]
