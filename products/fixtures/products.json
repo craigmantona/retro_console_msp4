@@ -6,9 +6,10 @@
         "name": "SNES",
         "description": "Super Nintendo Entertainment System. The SNES is Nintendo's second programmable home console, following the Nintendo Entertainment System (NES). The console introduced advanced graphics and sound capabilities compared with other systems at the time. The system was designed to accommodate the ongoing development of a variety of enhancement chips integrated into game cartridges to be competitive into the next generation.",
         "price": 159.99,
+        "rating": 5,
         "category": [1, 4],
         "image_url": "",
-        "image": "snes.jpg"
+        "image": "snes2.jpg"
     }
 },
 {
